@@ -1,6 +1,5 @@
-Sample curl's:
-curl -X POST https://dorb027w54.execute-api.eu-central-1.amazonaws.com/v1/users \
- -H 'Content-Type: application/json' \
- -d '{"username": "dan"}'
+Serverless API with GO, AWS Lambda and API Gateway
+Step by step instructions can be found in:
 
-curl -X PUT https://dorb027w54.execute-api.eu-central-1.amazonaws.com/v1/users
+- [Serverless API with Terraform, GO and AWS, Part 1](https://hackernoon.com/serverless-api-with-terraform-go-and-aws-part-1)
+- Part 2 - todo
