@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 	"os"
-	"serverless-api/api/internals/models"
-	"serverless-api/api/internals/responsewritter"
+	"serverless-api/api/internal/models"
+	"serverless-api/api/internal/responsewritter"
 	"time"
 
 	"github.com/aws/aws-lambda-go/events"

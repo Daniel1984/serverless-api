@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 	"os"
-	"serverless-api/api/internals/responsewritter"
+	"serverless-api/api/internal/responsewritter"
 
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"
